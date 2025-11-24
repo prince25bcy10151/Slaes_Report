@@ -1,8 +1,8 @@
-# 📚 Project Report: Sales Management System
+#  Project Report: Sales Management System
 
 ## **Title: Sales Management System (Python Project)**
-**Name:** Harsh Yadav
-**Course:** B.Tech CSE (AI & ML)
+**Name:** Prince Singhal
+**Course:** B.Tech CSE (Cybersecuricty)
 **University:** VIT Bhopal
 
 ---
@@ -47,29 +47,29 @@ The main objectives achieved by the project are:
 
 ## **4. Project Features**
 
-### 🎯 4.1 Add Product
+###  4.1 Add Product
 Allows the user to input and store new items along with the following critical details:
 * Product Name
 * Initial Stock Quantity
 * Unit Price
 * Minimum Stock Warning Limit (Threshold)
 
-### 🛒 4.2 Sale Recording
+###  4.2 Sale Recording
 This is the core transaction feature. Whenever a sale is successfully processed:
 * The **quantity sold is reduced** from the main inventory.
 * The **total bill amount** for the transaction is calculated.
 * A complete **sale entry is logged** and stored in the sales record.
 
-### ⚠️ 4.3 Low Stock Alerts
+###  4.3 Low Stock Alerts
 The system continuously monitors stock levels. It automatically displays a **prominent alert** to the user if any product’s current stock quantity is **equal to or less than** its configured minimum stock warning limit.
 
-### 📊 4.4 Sales Report
+###  4.4 Sales Report
 This feature generates a clear and readable report showing all recorded sales, including:
 * The Product Name
 * Quantity Sold in the transaction
 * The Total Bill Amount for that sale
 
-### 🤖 4.5 Human-like Code Structure
+###  4.5 Human-like Code Structure
 The implementation utilizes various programming techniques to ensure the code is clean, readable, and maintainable, including:
 * Modular design using **helper functions**.
 * Effective **string manipulation** for clean console output.
@@ -119,5 +119,6 @@ The following enhancements are planned to evolve the system into a more robust a
 ---
 
 ## **9. Conclusion**
+
 
 The **Sales Management System** project successfully demonstrates the effective use of Python for essential store management tasks, including inventory handling, sales tracking, and low-stock alerting. It is a functional, efficient, and easy-to-use prototype that lays a strong foundation and can be further improved and expanded to serve as a full-fledged retail management system.
