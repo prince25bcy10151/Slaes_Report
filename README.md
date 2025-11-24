@@ -1,4 +1,4 @@
-# 🛍️ Sales Management System (SMS)
+#  Sales Management System (SMS)
 
 ## **Project Title**
 **Sales Management System (SMS)**
@@ -53,4 +53,5 @@ Ensure you have **Python 3.x** installed on your machine.
 ```bash
 # Clone the repository from GitHub
 git clone [YOUR_GITHUB_REPO_LINK_HERE]
+
 cd SalesManagementSystem
